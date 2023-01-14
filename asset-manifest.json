@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/typescript-react-Taskify/static/css/main.7b3d8ea2.css",
+    "main.js": "/typescript-react-Taskify/static/js/main.180ea317.js",
+    "index.html": "/typescript-react-Taskify/index.html",
+    "main.7b3d8ea2.css.map": "/typescript-react-Taskify/static/css/main.7b3d8ea2.css.map",
+    "main.180ea317.js.map": "/typescript-react-Taskify/static/js/main.180ea317.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b3d8ea2.css",
+    "static/js/main.180ea317.js"
+  ]
+}
